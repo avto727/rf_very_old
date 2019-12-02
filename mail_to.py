@@ -6,7 +6,7 @@ from email import encoders
 
 email_user = 'dubodelov.a@anybody.ru'
 email_password = 'QwertyQwerty_123'
-email_to = ['anybodytest.test@gmail.com', 'klimentov.s@anybody.ru', 'rafeenkov.d@anybody.ru']
+email_to = ['anybodytest.test@gmail.com', 'kitov.s@anybody.ru', 'raenkov.d@anybody.ru']
 dir_path = "C:/Users/user/PycharmProjects/Projekt_Smart/PC"
 files = ["log.html", "report.html"]
 
